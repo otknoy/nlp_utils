@@ -49,4 +49,3 @@ if __name__ == '__main__':
         f = open(filename, 'w')
         f.write(article.encode('utf-8'))
         f.close()
-    
